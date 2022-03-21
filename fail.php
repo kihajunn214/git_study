@@ -6,5 +6,6 @@
 </head>
 <body>
 <a href="form.php">計算フォームはこちら</a>
+<p>push_practice3</p>
 </body>
 </html>
