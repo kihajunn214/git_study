@@ -17,5 +17,6 @@
 </p>
 <input type="submit" name="submit" value="送信">
 </form>
+<p>push_practice1</p>
 </body>
 </html>
