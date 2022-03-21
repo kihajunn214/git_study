@@ -6,6 +6,6 @@
 </head>
 <body>
 <a href="form.php">計算フォームはこちら</a>
-<p>add1</p>
+<p>add2</p>
 </body>
 </html>
